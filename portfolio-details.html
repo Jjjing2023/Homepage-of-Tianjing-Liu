@@ -40,10 +40,16 @@
     >
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#resume">Resume</a></li>
-          <li><a class="nav-link scrollto" href="#services">Projects</a></li>
+          <li><a class="nav-link scrollto" href="index.html">Home</a></li>
+          <li>
+            <a class="nav-link scrollto" href="index.html#about">About</a>
+          </li>
+          <li>
+            <a class="nav-link scrollto" href="index.html#resume">Resume</a>
+          </li>
+          <li>
+            <a class="nav-link scrollto" href="index.html#projects">Projects</a>
+          </li>
 
           <li class="dropdown">
             <a href="#"><span>More</span> <i class="bi bi-chevron-down"></i></a>
@@ -51,7 +57,9 @@
               <li><a href="portfolio-details.html">Project Details</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li>
+            <a class="nav-link scrollto" href="index.html#contact">Contact</a>
+          </li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -79,30 +87,31 @@
         <div class="container">
           <div class="row gy-4">
             <div class="col-lg-8">
-              <div class="portfolio-details-slider swiper">
-                <div class="swiper-wrapper align-items-center">
-                  <div class="swiper-slide">
+              <!-- <div class="portfolio-details-slider swiper"> -->
+                <!-- <div class="swiper-wrapper align-items-center"> -->
+                  <!-- <div class="swiper-slide"> -->
                     <img
                       src="assets/img/portfolio/portfolio-details-1.jpg"
                       alt="project1"
+                      style="width: 700px; height: 500px;"
                     />
                   </div>
 
-                  <div class="swiper-slide">
+                  <!-- <div class="swiper-slide">
                     <img
                       src="assets/img/portfolio/portfolio-details-2.jpg"
                       alt="project2"
                     />
-                  </div>
-
+                  </div> -->
+                  <!-- 
                   <div class="swiper-slide">
                     <img
                       src="assets/img/portfolio/portfolio-details-3.jpg"
                       alt="project3"
                     />
-                  </div>
+                  </div> -->
                 </div>
-                <div class="swiper-pagination"></div>
+                <!-- <div class="swiper-pagination"></div> -->
               </div>
             </div>
 
@@ -110,24 +119,27 @@
               <div class="portfolio-info">
                 <h3>Project information</h3>
                 <ul>
-                  <li><strong>Project Name: </strong>AWS cloud</li>
-                  <li><strong>Client</strong>: ASU Company</li>
-                  <li><strong>Project date</strong>: 01 March, 2020</li>
+                  <li>
+                    <strong>Project Name: </strong>AWS Serverless Notes App
+                  </li>
+
+                  <li><strong>Project date: </strong>Summer 2023</li>
                   <li>
                     <strong>Project URL</strong>:
-                    <a href="#">www.example.com</a>
+                    <a href="#"
+                      >https://github.com/Jjjing2023/AWS-Serverless-Notes-App</a
+                    >
                   </li>
                 </ul>
               </div>
               <div class="portfolio-description">
                 <h2>Project Description</h2>
                 <p>
-                  Create, read, update, and delete notes User authentication and
-                  authorization with Google Sign-In Responsive design for
-                  optimal user experience on different devices Utilization of
-                  AWS Lambda, API Gateway, and S3 for backend functionality and
-                  data storage Optimized performance through efficient API calls
-                  and caching strategies
+                  The Serverless Notes App is a web application developed using
+                  the Angular framework and AWS serverless technologies. It
+                  allows users to create, read, update, and delete notes
+                  securely. The application leverages AWS Lambda, API Gateway,
+                  and Amazon S3 for serverless backend logic and data storage.
                 </p>
               </div>
             </div>
