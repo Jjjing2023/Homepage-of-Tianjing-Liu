@@ -10,7 +10,7 @@ Instructor: John Alexis Guerra Gómez
 ### Author:
 
 Created By: Tianjing Li
-Release: [Homepage]()
+Release: [Homepage](https://jjjing2023.github.io/)
 
 ### Project Objective
 
