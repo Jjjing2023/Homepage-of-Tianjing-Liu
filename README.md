@@ -1,6 +1,6 @@
 ### Project 1 : My Personal Homepage
 
-####
+#### https://jjjing2023.github.io/
 
 Based on JavaScript, CSS, HTML, and Bootstrap v5.2.1.  
 CS 5610 Web Development: [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)  
@@ -22,7 +22,7 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 
 ### Preview:
 
-<img width="1273" alt="Preview" src="#">
+<img width="1273" alt="Preview" src="assets/img/portfolio/preview.jpg">
 <img width="1275" alt="4sum" src="#">
 <img width="1274" alt="Gallery" src="#">
 <img width="1277" alt="Contacts" src="#">
@@ -40,7 +40,7 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 - Enter your local directory of the code in the CLI terminal.
 - Start a local server in CLI (e.g. reload -b )
 - Enter the URL of the index page in the browser.
-- Voilà!
+- Done!
 
 ### Copyright:
 
