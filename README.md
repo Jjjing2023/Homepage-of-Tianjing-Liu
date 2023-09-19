@@ -1,24 +1,15 @@
-### Project 1 : My Personal Homepage
+### My Personal Homepage
 
 #### https://jjjing2023.github.io/
 
-Based on JavaScript, CSS, HTML, and Bootstrap v5.2.1.  
-CS 5610 Web Development: [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)  
-Northeastern University Bay Area  
-Instructor: John Alexis Guerra Gómez
+### Author: Tianjing Li
 
-### Author:
-
-Created By: Tianjing Li
+Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
+Presentation Slides:
+Video:
+Wireframe: https://www.figma.com/file/W8ba00KYEv8jlXDtSeGauS/personal-homepage?type=whiteboard&node-id=0%3A1&t=H2eQyKaOSYo8Mt6g-1
 Release: [Homepage](https://jjjing2023.github.io/)
-
-### Project Objective
-
-To Build a personal website by basically Bootstrap and Vanilla JS. There should be at least two pages introducing our skills, projects, hobbies, etc, and templates are allowed. The final product should be of W3C compliance, as well as formatted by eslint and prettier.
-
-### Design Mockup:
-
-[DesignDoc](https://github.com/wyang10/wyang10.github.io/blob/main/Design%20Doc-wy.pdf)
+A project from CS 5610 Web Development: [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
 ### Preview:
 
@@ -27,10 +18,12 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 <img width="1274" alt="Gallery" src="#">
 <img width="1277" alt="Contacts" src="#">
 
-### Demonstration:
+### Features:
 
 [Video](https://youtu.be/1_u326Us-mQ)  
 [Slides](https://docs.google.com/presentation/d/1y0k3IhyBkj_wqHyUUwIzrWmgDCD7URtaz3tN7w1Sja8/edit#slide=id.p1)
+
+### Technologies:
 
 ### Intro to Install/ Run:
 
@@ -41,6 +34,10 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 - Start a local server in CLI (e.g. reload -b )
 - Enter the URL of the index page in the browser.
 - Done!
+
+### Copyright:
+
+The website is hosted using GitHub Pages and can be accessed here(https://jjjing2023.github.io/).
 
 ### Copyright:
 
