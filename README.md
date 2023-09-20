@@ -29,10 +29,11 @@
 ### Intro to Install/ Run:
 
 1. Access it directly by the link [Homepage](https://jjjing2023.github.io/).
+
 2. Clone the repository and run it locally either on your local server, or through a browser.
 
-- Enter your local directory of the code in the CLI terminal.
-- Start a local server in CLI (e.g. reload -b )
+- Enter your local directory of the code in the terminal.
+- Start a local server
 - Enter the URL of the index page in the browser.
 - Done!
 
@@ -42,4 +43,4 @@ The website is hosted using GitHub Pages and can be accessed here(https://jjjing
 
 ### Copyright:
 
-This webpage takes advantage of templates from bootstrap. This project is under MIT license. All modified image resources could be distributed with same methods. Photos of myself will be shared with CC 4.0 BY-NC-ND license.
+This webpage takes advantage of templates from bootstrap. This project is under MIT license. All modified image resources could be distributed with same methods. See LICENSE for more details.
