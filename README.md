@@ -1,15 +1,15 @@
 ### My Personal Homepage
 
+### Author: Tianjing Liu
+
 #### https://jjjing2023.github.io/
 
 ### Preview:
 
 <img width="1273" alt="Preview" src="https://github.com/Jjjing2023/Jjjing2023.github.io/blob/main/assets/img/preview.png">
 
-### Author: Tianjing Liu
-
 - Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
-- Presentation Slides: https://docs.google.com/presentation/d/1LL1N1HE0yGDHtKXb154HUFebHXkPidlMY3hyM78BkJo/edit#slide=id.g24722999cf0_0_298
+- Slides: https://docs.google.com/presentation/d/1LL1N1HE0yGDHtKXb154HUFebHXkPidlMY3hyM78BkJo/edit#slide=id.g24722999cf0_0_298
 - Video: https://youtu.be/yL69kowRPPE
 - Wireframe: https://www.figma.com/file/W8ba00KYEv8jlXDtSeGauS/personal-homepage?type=whiteboard&node-id=0%3A1&t=H2eQyKaOSYo8Mt6g-1
 - Release: [Homepage](https://jjjing2023.github.io/)
