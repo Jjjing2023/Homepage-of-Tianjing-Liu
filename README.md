@@ -2,6 +2,10 @@
 
 #### https://jjjing2023.github.io/
 
+### Preview:
+
+<img width="1273" alt="Preview" src="https://github.com/Jjjing2023/Jjjing2023.github.io/blob/main/assets/img/preview.png">
+
 ### Author: Tianjing Liu
 
 - Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
