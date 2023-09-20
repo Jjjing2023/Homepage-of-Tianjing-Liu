@@ -4,17 +4,17 @@
 
 ### Author: Tianjing Liu
 
-Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
-Presentation Slides: https://docs.google.com/presentation/d/1LL1N1HE0yGDHtKXb154HUFebHXkPidlMY3hyM78BkJo/edit#slide=id.g24722999cf0_0_298
-Video: https://youtu.be/yL69kowRPPE
-Wireframe: https://www.figma.com/file/W8ba00KYEv8jlXDtSeGauS/personal-homepage?type=whiteboard&node-id=0%3A1&t=H2eQyKaOSYo8Mt6g-1
-Release: [Homepage](https://jjjing2023.github.io/)
-A project from CS 5610 Web Development: [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)
+- Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
+- Presentation Slides: https://docs.google.com/presentation/d/1LL1N1HE0yGDHtKXb154HUFebHXkPidlMY3hyM78BkJo/edit#slide=id.g24722999cf0_0_298
+- Video: https://youtu.be/yL69kowRPPE
+- Wireframe: https://www.figma.com/file/W8ba00KYEv8jlXDtSeGauS/personal-homepage?type=whiteboard&node-id=0%3A1&t=H2eQyKaOSYo8Mt6g-1
+- Release: [Homepage](https://jjjing2023.github.io/)
+- A project from CS 5610 Web Development: [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
 ### Key Features:
 
 - **Navigation bar**:
-- About Me
+  About Me
 - Resume
 - Projects
 - More
