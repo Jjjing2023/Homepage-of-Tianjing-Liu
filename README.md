@@ -2,28 +2,25 @@
 
 #### https://jjjing2023.github.io/
 
-### Author: Tianjing Li
+### Author: Tianjing Liu
 
 Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
-Presentation Slides:
-Video:
+Presentation Slides: https://docs.google.com/presentation/d/1LL1N1HE0yGDHtKXb154HUFebHXkPidlMY3hyM78BkJo/edit#slide=id.g24722999cf0_0_298
+Video: https://youtu.be/yL69kowRPPE
 Wireframe: https://www.figma.com/file/W8ba00KYEv8jlXDtSeGauS/personal-homepage?type=whiteboard&node-id=0%3A1&t=H2eQyKaOSYo8Mt6g-1
 Release: [Homepage](https://jjjing2023.github.io/)
 A project from CS 5610 Web Development: [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
-### Preview:
+### Key Features:
 
-<img width="1273" alt="Preview" src="assets/img/portfolio/preview.jpg">
-<img width="1275" alt="4sum" src="#">
-<img width="1274" alt="Gallery" src="#">
-<img width="1277" alt="Contacts" src="#">
-
-### Features:
-
-[Video](https://youtu.be/1_u326Us-mQ)  
-[Slides](https://docs.google.com/presentation/d/1y0k3IhyBkj_wqHyUUwIzrWmgDCD7URtaz3tN7w1Sja8/edit#slide=id.p1)
-
-### Technologies:
+- **Navigation bar**:
+- About Me
+- Resume
+- Projects
+- More
+- Contact
+- **Adaptive design across different devices**
+- **Seamless navigation browsing effect**
 
 ### Intro to Install/ Run:
 
