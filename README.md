@@ -6,7 +6,7 @@
 
 ### Preview:
 
-<img width="1273" alt="Preview" src="https://github.com/Jjjing2023/Jjjing2023.github.io/blob/main/assets/img/preview.png">
+<img width="1273" alt="Preview" src="https://github.com/Jjjing2023/Jjjing2023.github.io/blob/main/assets/img/preview.png?raw=true">
 
 - Design Doc: https://rv1aomcbum.feishu.cn/docx/WoBedxQuSoycXwxBycJcfba8n6c
 - Slides: https://docs.google.com/presentation/d/1LL1N1HE0yGDHtKXb154HUFebHXkPidlMY3hyM78BkJo/edit#slide=id.g24722999cf0_0_298
