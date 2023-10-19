@@ -12,7 +12,9 @@
       return document.querySelector(el);
     }
   };
-
+  /**
+  This is a very great way to reduce the repitition!! In this way, you can select the classes easily!
+  */
   /**
    * Easy event listener function
    */
@@ -36,6 +38,7 @@
 
   /**
    * Navbar links active state on scroll
+   * I wonder what would happen if you don't include "if (!navbarlink.hash) return; and if (!section) return;" I would love to learn
    */
   let navbarlinks = select("#navbar .scrollto", true);
   const navbarlinksActive = () => {
@@ -54,7 +57,7 @@
       }
     });
   };
-  window.addEventListener("load", navbarlinksActive);
+  window.addEventListener("load", navbarlinksActive); // I like how u add these functions only after everything is loaded.
   onscroll(document, navbarlinksActive);
 
   /**
@@ -64,8 +67,8 @@
     let header = select("#header");
     let offset = header.offsetHeight;
 
-    if (!header.classList.contains("header-scrolled")) {
-      offset -= 20;
+    if (!header.classList.contains("header-scrolled")) { 
+      offset -= 20; // is this to make sure that all content are visible, meaning header height is 20?
     }
 
     let elementPos = select(el).offsetTop;
@@ -93,6 +96,7 @@
 
   /**
    * Back to top button
+   * I like this back to top button function. it makes it so easy to scroll back up to top. very efficient!!
    */
   let backtotop = select(".back-to-top");
   if (backtotop) {
